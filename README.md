@@ -1,5 +1,4 @@
-#Trabalho 1 Pesquisa Operacional
-
+# Trabalho 1 Pesquisa Operacional
 ####Grupo: Victor Guerra Veloso (2658) e Caio Victor Fernandes
 ####Livro: Pesquisa Operacional do Hamdy Taha
 ####Links úteis: 
